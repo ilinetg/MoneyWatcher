@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Money Watcher</string>
+    <string name="submition_button">Submit Expense</string>
+    <string name="daily_button">today\'s total</string>
+    <string name="charts_button">Charts</string>
+    <string name="Category_key">Category</string>
+    <string name="date_key">Date</string>
+    <string name="price_txt">Price</string>
+    <string name="product_txt">Product</string>
+</resources>

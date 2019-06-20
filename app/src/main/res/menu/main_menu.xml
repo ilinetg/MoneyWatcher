@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id ="@+id/settings"
+        android:title="currency"
+        app:showAsAction="never"
+
+        />
+    <item
+        android:id="@+id/notification"
+        android:title="Limit"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/categorySet"
+        android:title="Create Categories"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/add_category"
+        android:title="Add/Remove Category"
+        app:showAsAction="never"/>
+</menu>
